@@ -1,6 +1,6 @@
 name: scoped_get_it
-description: A new Flutter package project.
-version: 0.0.1
+description: get_it with scopes.
+version: 0.0.1+1
 repository: https://github.com/TarekkMA/scoped_get_it
 
 environment:
