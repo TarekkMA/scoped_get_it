@@ -2,6 +2,12 @@
 
 GetIt with scopes :).
 
+## :warning: Read First
+
+This package is new and API maybe unstable, you are welcome to reach the source code,it is very simple, and decide if want to use it in your project.
+
+:star: PRs are always welcome.
+
 ## Installation
 
 ```yaml
