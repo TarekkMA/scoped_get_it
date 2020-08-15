@@ -4,7 +4,7 @@ GetIt with scopes :).
 
 ## :warning: Read First
 
-This package is new and API maybe unstable, you are welcome to reach the source code,it is very simple, and decide if want to use it in your project. Also check out the [example](./tree/master/example)
+This package is new and API maybe unstable, you are welcome to reach the source code,it is very simple, and decide if want to use it in your project. Also check out the [example](./example)
 
 :star: PRs are always welcome.
 
