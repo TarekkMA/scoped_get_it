@@ -1,3 +1,5 @@
+# [DEPRECATED] Please use [get_it 5.0.0](https://pub.dev/packages/get_it) since it now have scopes features
+
 # scoped_get_it
 
 GetIt with scopes :).
